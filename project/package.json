@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cros": "^1.0.1",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "1.js",
+  "scripts": {
+    "start": "nodemon ./twitter3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
