@@ -42,6 +42,12 @@
     padding-bottom: 15px;
     border-radius: 5px;
   }
+ .container .box .dream img:hover{
+
+    filter: grayscale(100%);
+    transform:scale(1.1);
+   
+  }
   
   .container .btn{
     margin: 40px 0 70px 0;
